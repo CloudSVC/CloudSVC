@@ -8,6 +8,10 @@ https://CloudSVC.github.io/
 
 https://www.nndty.ml/
 
+<!-- 访客 -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=captain5.captain5" alt="visitor badge"/>
+</p>
 
 <!--
 **CloudSVC/CloudSVC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
