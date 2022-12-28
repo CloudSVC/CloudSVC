@@ -10,7 +10,7 @@
 
 <!-- 访客 -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=CloudSVC.CloudSVC" alt="11 badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=CloudSVC.CloudSVC" alt="visitor badge"/>
 </p>
 
 <!--
