@@ -1,7 +1,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CloudSVC&show_icons=true">
 
 <!-- 访客 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudSVC&layout=donut&theme=catppuccin_mocha&exclude_repo=SR-MyStar.github.io&langs_count=10" alt="visitor badge"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudSVC&layout=donut&theme=catppuccin_mocha&exclude_repo=SR-MyStar.github.io&langs_count=10" alt="visitor badge"/>
 
 
 <!--
