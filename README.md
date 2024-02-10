@@ -1,9 +1,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CloudSVC&show_icons=true">
 
 <!-- 访客 -->
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudSVC&layout=donut&theme=catppuccin_mocha&exclude_repo=SR-MyStar.github.io&langs_count=10" alt="visitor badge"/>
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudSVC&layout=donut&theme=catppuccin_mocha&exclude_repo=SR-MyStar.github.io&langs_count=10" alt="visitor badge"/>
+
 
 <!--
 **CloudSVC/CloudSVC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
