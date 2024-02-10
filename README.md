@@ -7,7 +7,7 @@
 
 <!-- 访客 -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=CloudSVC.CloudSVC" alt="visitor badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudSVC&layout=donut&theme=catppuccin_mocha&exclude_repo=SR-MyStar.github.io&langs_count=10" alt="visitor badge"/>
 </p>
 
 <!--
