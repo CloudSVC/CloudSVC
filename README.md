@@ -3,10 +3,6 @@
 <img src=https://github-readme-stats.vercel.app/api?username=CloudSVC&show_icons=true&theme=transparent>
 </div>
 
-<!-- 访客 -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=CloudSVC.CloudSVC" alt="visitor badge"/>
-</p>
 <!--
 **CloudSVC/CloudSVC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
